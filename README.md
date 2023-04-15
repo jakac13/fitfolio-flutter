@@ -15,7 +15,7 @@
 - Cached images using the cached_network_image package for improved performance.
 
 ## Future Features
-- Outfit Creation: With our app, you can create new outfits using your saved clothes. This feature will help you experiment with new looks and put together outfits that you may not have thought of before.
+- Outfit Creation: With our app, you can create new outfits using your saved clothes. This feature will help you put together outfits that you may not have thought of before.
 - Tagging and Calendar: To help you keep track of what you've worn, our app also allows you to tag outfits with the date you wore them. You can then view your tagged outfits on a calendar, making it easy to see what you wore on any given day and plan future outfits accordingly.
 
 ![59shots_so](https://user-images.githubusercontent.com/113991942/232224138-c73dec1c-7232-40a1-8f31-53ff8a27a135.png)
