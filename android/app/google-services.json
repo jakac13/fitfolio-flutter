@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964555394551",
+    "firebase_url": "https://closetassist-8445f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "closetassist-8445f",
+    "storage_bucket": "closetassist-8445f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964555394551:android:031123a965e2799944b2f2",
+        "android_client_info": {
+          "package_name": "com.example.closet_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964555394551-2g7m484juds2dgc4c36bvf17111s7s1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcpbJgUaloZ4D1F6YbRtovpt4hvcX01A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964555394551-2g7m484juds2dgc4c36bvf17111s7s1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
