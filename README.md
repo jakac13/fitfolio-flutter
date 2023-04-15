@@ -1,4 +1,4 @@
-# Fitfolio - Flutter App ()
+# Fitfolio - Flutter App (Under Construction)
 ### Please note that this app is still under construction, and some features may not be fully functional at this time. 
 
 - [Landing Page Link](https://jakac13.github.io/fitfolio-website/)
